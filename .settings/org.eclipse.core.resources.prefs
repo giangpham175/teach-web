@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/dangky.jsp=UTF-8
+encoding//WebContent/login.jsp=UTF-8
+encoding//WebContent/trangchitietbaigianggv.jsp=UTF-8
+encoding//WebContent/trangchitietbaigiangsv.jsp=UTF-8
+encoding//WebContent/trangchuGV.jsp=UTF-8
+encoding//src/info/hotrogv/servlet/BaiGiangServlet.java=UTF-8
+encoding//src/info/hotrogv/servlet/KhoaHocServlet.java=UTF-8
+encoding//src/info/hotrogv/servlet/SinhVienKhoaHocServlet.java=UTF-8
+encoding//src/info/hotrogv/servlet/TaiKhoanServlet.java=UTF-8

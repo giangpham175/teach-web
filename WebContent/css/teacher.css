@@ -1,0 +1,196 @@
+.navbar-static-top {
+  margin-bottom:20px;
+}
+
+i {
+  font-size:16px;
+}
+
+.item{
+	height:350px;
+	margin-bottom:20px;
+    overflow: hidden;
+}
+.nav > li > a {
+  color:#787878;
+}
+  .label,.glyphicon { margin-right:5px; }
+footer {
+  margin-top:20px;
+  padding-top:20px;
+  padding-bottom:20px;
+  background-color:blue;
+}
+/*header*/
+header .header-topbar {
+    background-color: #195690;
+    width: 100%;
+    color: #fff;
+    line-height: 50px
+}
+
+header .header-topbar .container {
+    background: #195690;
+    width: 100%;
+}
+
+header .header-topbar a, header .header-topbar span, header .header-topbar p {
+    color: white;
+    font-size: 12px;
+    transition: all 0.2s ease
+}
+
+header .header-topbar a:hover, header .header-topbar span:hover, header .header-topbar p:hover {
+    color: #2aacff
+}
+
+header .header-topbar .email, header .header-topbar .hotline {
+    display: inline-block
+}
+
+header .header-topbar .email .topbar-icon, header .header-topbar .hotline .topbar-icon {
+    color: #2aacff;
+    margin-right: 10px;
+    font-size: 16px
+}
+
+header .header-topbar .email {
+    margin-right: 20px
+}
+
+header .header-topbar .socials, header .header-topbar .group-sign-in {
+    display: inline-block;
+    padding-top: 0
+}
+
+header .header-topbar .socials a {
+    color: #a7abb3;
+    padding: 0px 10px;
+    width: auto;
+    height: auto;
+    background-color: transparent
+}
+
+header .header-topbar .socials a i {
+    transition: all 0.3s ease
+}
+
+header .header-topbar .socials a:hover i {
+    color: #2aacff
+}
+
+header .header-topbar .socials a:last-child {
+    margin-right: 0
+}
+
+header .header-topbar .group-sign-in {
+    margin-left: 70px;
+    text-transform: capitalize
+}
+
+header .header-topbar .group-sign-in .login:after {
+    content: '|';
+    margin-right: 10px;
+    padding-left: 10px;
+    color: #fff !important
+}
+
+/* count indicator near icons */
+.nav>li .count {
+  position: absolute;
+  bottom: 12px;
+  right: 6px;
+  font-size: 10px;
+  font-weight: normal;
+  background: rgba(51,200,51,0.55);
+  color: #ffffff;
+  line-height: 1em;
+  padding: 2px 4px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+}
+
+/* indent 2nd level */
+.list-unstyled li > ul > li {
+   margin-left:10px;
+   padding:8px;
+}
+.container2 {
+	padding-left:0%;
+	padding-right:0%;
+	min-height:800px;
+}
+.login {
+  width: 31%;
+  margin: 35px auto 0;
+  padding: 15px 0px 0px 0px;
+  border-radius: 5px;
+  background:#fff;
+}
+.login form input[type="text"] {
+  outline: none;
+  font-size: 15px;
+  font-weight: 400;
+  color: #c0c0c0;
+  padding: 10px 20px 10px 46px;
+  border: 1px solid #2DC2BC;
+  border-radius: 5px;
+  margin: 0 auto 15px;
+  width: 60%;
+  -webkit-appearance: none;
+}
+.login h2 {
+  font-size: 30px;
+  font-weight: 700;
+  color: #000;
+  text-align:center;
+}
+.login input[type="password"] {
+  outline: none;
+  font-size: 15px;
+  font-weight: 400;
+  padding: 10px 20px 10px 45px;
+  border: 1px solid #2DC2BC;
+  border-radius: 5px;
+  margin: 0 auto 11px;
+  width: 60%;
+  -webkit-appearance: none;
+  color:#c0c0c0;
+}
+.login-bwn {
+  text-align: center;
+}
+.login input[type="submit"] {
+  background: #2DC2BC;
+  color: #FFF;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 6px 0px;
+  width: 30%;
+  cursor: pointer;
+  outline: none;
+  margin: 15px 0px 5px 0px;
+  border: none;
+  border-radius: 5px;
+}
+.login input[type="submit"]:hover {
+	background:rgb(160, 6, 6);
+	transition: 0.5s all;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+}
+.login form input.user {
+  background: url(../images/user.png)no-repeat 15px 7px #fff;
+  display: block;
+}
+.login form input.lock {
+  background: url(../images/key.png)no-repeat 15px 7px #fff;
+  display: block;
+}
+.border-color{
+	border:1px solid #008CBA;
+}
